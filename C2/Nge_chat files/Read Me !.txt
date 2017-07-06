@@ -1,0 +1,7 @@
+file name	: nge_chat (simple web chatting app)
+author		: d-newbie 
+fix on		: 08/07/2015
+
+view complete tutorial on jagocoding.com
+
+:)
